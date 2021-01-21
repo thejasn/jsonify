@@ -6,3 +6,8 @@ Usage:
 ```
 jsonify -f <file-name> | red log 
 ```
+
+Installation:
+```
+go get "github.com/thejasn/jsonify"
+```
